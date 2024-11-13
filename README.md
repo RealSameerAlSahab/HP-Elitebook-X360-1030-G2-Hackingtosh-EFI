@@ -1,6 +1,6 @@
 # HP-Elitebook-X360-1030-G2-Hackingtosh-EFI
 Hackingtosh Ventura , Sonama for HP ELITEBOOK 1030 G2 X360 [SUCCESS]
-
+![Clipped_image_20241113_192511](https://github.com/user-attachments/assets/982a5b37-8901-4bb5-bda5-807f46d61edf)
 # Laptop Specs
 - <b>CPU</b>: [Intel Core i5-7200U/i3/i7-7600U Dual Core]
 - <b>GPU</b>: [Intel HD 620 Graphics]
@@ -16,7 +16,7 @@ Hackingtosh Ventura , Sonama for HP ELITEBOOK 1030 G2 X360 [SUCCESS]
 
 # Whats Working
 - Screen Brightness with Smooth backlight Animations 
-- Sound with keys 
+- Proper Sound with keyboard Keys
 - Intel Bluetooth
 - USB C Thunderbolt 
 - SD Card Reader
@@ -38,7 +38,9 @@ Hackingtosh Ventura , Sonama for HP ELITEBOOK 1030 G2 X360 [SUCCESS]
 - iMessage, App Store , FaceTime , iCloud and also AppleTV [All Apple Services] 
 
 # Whats not working
-- Fingerprint Scanner [Dont ask as its unfixable]
+- Fingerprint Scanner
+[Dont ask as its unfixable] &
+
 - AirDrop [Need a Broadcom WIFI Card Replacement]
 
 # Not Tested
@@ -59,9 +61,13 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
 - HP Smart Card Power Savings off
 - Make sure WLAN, Bluetooth & Touchscreen is on
   
+
 # MacOS Versions Tested
   BigSur , Catalina , Mojave , Ventura and Sonoma [VENTURA Recommended]
 
 # Screenshots
+
+![Screenshot 2024-11-13 at 7 15 49 PM](https://github.com/user-attachments/assets/655c94b6-4b68-4ffe-95b6-5e751663729e)
+
 ![](Resources/Images/IntelWIFI.png)
 ![](Resources/Images/BTSettings.png)
