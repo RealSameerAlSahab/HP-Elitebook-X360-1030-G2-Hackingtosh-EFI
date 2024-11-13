@@ -1,6 +1,6 @@
 # HP-Elitebook-X360-1030-G2-Hackingtosh-EFI
 Hackingtosh Ventura , Sonama for HP ELITEBOOK 1030 G2 X360 [SUCCESS]
-![Clipped_image_20241113_192511](https://github.com/user-attachments/assets/982a5b37-8901-4bb5-bda5-807f46d61edf)
+
 # Laptop Specs
 - <b>CPU</b>: [Intel Core i5-7200U/i3/i7-7600U Dual Core]
 - <b>GPU</b>: [Intel HD 620 Graphics]
@@ -9,7 +9,7 @@ Hackingtosh Ventura , Sonama for HP ELITEBOOK 1030 G2 X360 [SUCCESS]
 - <b>Screen</b>: 13-inch FHD (1920x1080)  
 - <b>Touchscreen</b>: Wacom Touch Display with 10 points touch and pen
 - <b>Trackpad</b>: ALPS V8 [I2C]
-- <b>Wi-Fi</b>: Intel Wireless 8265
+- <b>Wi-Fi</b>: Intel Wireless AC 8265
 - <b>Ports</b>: 1x USB Thunderbolt , 2x USB 3 , 1x HDMI 1.4 , 1x SD Card
 - <b>Speakers</b>: Bang & Olufsen 4 way Speakers [ALC Layout-21]
 - <b>Cameras</b>: HP HD Camera 720p and IR Camera 
