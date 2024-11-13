@@ -64,3 +64,4 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
 
 # Screenshots
 ![](Resources/Images/IntelWIFI.png)
+![](Resources/Images/BTSettings.png)
