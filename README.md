@@ -63,4 +63,4 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
   BigSur , Catalina , Mojave , Ventura and Sonoma [VENTURA Recommended]
 
 # Screenshots
-![](Resources/Images/Screenshot 2024-11-12 at 11.42.43 PM.png)
+![](Resources/Images/IntelWIFI.png)
