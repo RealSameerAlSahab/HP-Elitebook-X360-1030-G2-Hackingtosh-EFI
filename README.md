@@ -7,11 +7,11 @@ Hackingtosh Ventura , Sonama for HP ELITEBOOK 1030 G2 X360 [SUCCESS]
 - <b>Storage</b>: 256GB-1TB SSD 
 - <b>RAM</b>: 8 GB LPDDR4 2133MHz
 - <b>Screen</b>: 13-inch FHD (1920x1080)  
-- <b>Touchscreen</b>:Wacom Touch Display with 10 points touch and pen
+- <b>Touchscreen</b>: Wacom Touch Display with 10 points touch and pen
 - <b>Trackpad</b>: ALPS V8 [I2C]
 - <b>Wi-Fi</b>: Intel Wireless 8265
 - <b>Ports</b>: 1x USB Thunderbolt , 2x USB 3 , 1x HDMI 1.4 , 1x SD Card
-- <b>Speakers</b>: Bang&Olufsen 4 way Speakers [ALC Layout-21]
+- <b>Speakers</b>: Bang & Olufsen 4 way Speakers [ALC Layout-21]
 - <b>Cameras</b>: HP HD Camera 720p and IR Camera 
 
 # Whats Working
@@ -63,4 +63,4 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
   BigSur , Catalina , Mojave , Ventura and Sonoma [VENTURA Recommended]
 
 # Screenshots
-![](Resources/Images/Screenshot 2024-11-12 at 11.42.43 PM)
+![](Resources/Images/Screenshot 2024-11-12 at 11.42.43 PM.png)
