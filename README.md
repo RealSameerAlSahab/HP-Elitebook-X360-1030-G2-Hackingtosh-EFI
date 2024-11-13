@@ -2,23 +2,17 @@
 Hackingtosh Ventura , Sonama for HP ELITEBOOK 1030 G2 X360 [SUCCESS]
 
 # Laptop Specs
-- Processor - Core i5-7200U 2.71GHz [Upto 3.09GHz] Dual Core
-- Graphics  - Intel HD Graphics 620 
-- Screen    - 13.3" Touchscreen Wacom Display 
-- Trackpad  - Alps Smart Trackpad 
-- Camera    - HP HD Camera & HP IR Camera
-- Microphone- HP High Defination Microphone
-- Speakers  - Bang & Olufsen [4 way Speakers] Layout ALC 21
-
 - <b>CPU</b>: [Intel Core i5-7200U/i3/i7-7600U Dual Core]
 - <b>GPU</b>: [Intel HD 620 Graphics]
 - <b>Storage</b>: 256GB-1TB SSD 
 - <b>RAM</b>: 8 GB LPDDR4 2133MHz
 - <b>Screen</b>: 13-inch FHD (1920x1080)  
-- <b>Touchscreen</b>Wacom Touch Display with 10 points touch and pen
+- <b>Touchscreen</b>:Wacom Touch Display with 10 points touch and pen
 - <b>Trackpad</b>: ALPS V8 [I2C]
 - <b>Wi-Fi</b>: Intel Wireless 8265
-- <b>Ports</b>: 1x USB Thunderbolt , 2x USB 3 , 1x HDMI 1.4 , 1x SD Card 
+- <b>Ports</b>: 1x USB Thunderbolt , 2x USB 3 , 1x HDMI 1.4 , 1x SD Card
+- <b>Speakers</b>: Bang&Olufsen 4 way Speakers [ALC Layout-21]
+- <b>Cameras</b>: HP HD Camera 720p and IR Camera 
 
 # Whats Working
 - Screen Brightness with Smooth backlight Animations 
